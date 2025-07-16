@@ -13,7 +13,7 @@ html{
 
 body{
     align-items: center;
-    background: linear-gradient(45deg, #9feb92, #92b0eb,#925df4);
+    background: linear-gradient(120deg, #9feb92, #92b0eb,#925df4);
     display: flex;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-display: swap;
